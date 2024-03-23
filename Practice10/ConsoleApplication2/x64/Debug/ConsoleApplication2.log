@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+D:\System programming\10\Practice10\ConsoleApplication2\ConsoleApplication2.cpp(17,12): warning C4312: приведение типов: преобразование из "int" в "HANDLE" большего размера
+LINK : fatal error LNK1168: не удается открыть D:\System programming\10\Practice10\x64\Debug\ConsoleApplication2.exe для записи
